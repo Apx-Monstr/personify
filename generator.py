@@ -117,8 +117,3 @@ class Generator:
     def getPersona(self) -> Dict[str, Any]:
         return self.persona if isinstance(self.persona, dict) else {}
     
-    def getRawAnalysis(self) -> Dict[str, Any]:
-        return self.raw_analysis
-    
-    def getProcessedAnalysis(self) -> Dict[str, Any]:
-        return self.processed_analysis

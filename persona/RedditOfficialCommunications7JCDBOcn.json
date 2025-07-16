@@ -1,0 +1,43 @@
+{
+    "name": "Reddit Official Communications",
+    "age": "25-45",
+    "occupation": "Reddit Communications Team",
+    "status": "N/A",
+    "location": "San Francisco, USA",
+    "tier_archetype": "Innovators",
+    "personality": {
+        "introvert_extravert": "Extravert",
+        "intuition_sensing": "Sensing",
+        "feeling_thinking": "Thinking",
+        "perceiving_judging": "Judging"
+    },
+    "motivations": {
+        "convenience": "5",
+        "speed": "5",
+        "wellness": "3",
+        "preferences": "4",
+        "dietary_needs": "1"
+    },
+    "behavior_and_habits": [
+        "Actively posts official announcements and updates related to Reddit platform changes, policies, and community guidelines.",
+        "Engages directly with users in comment sections to address concerns, answer questions, and provide clarifications.",
+        "Focuses on clear, concise, and informative communication, often using bullet points and direct links for easy access to information.",
+        "Monitors multiple subreddits, especially those related to moderation, safety, and help, to proactively address issues and concerns.",
+        "Uses official Reddit accounts with clear indicators (orangered snoo or [A]) to ensure authenticity and prevent impersonation."
+    ],
+    "frustrations": [
+        "Difficulty in effectively communicating complex policy changes to a diverse user base.",
+        "Challenges in managing misinformation and addressing user concerns in a timely manner.",
+        "Dealing with negative feedback and criticism regarding platform decisions.",
+        "Limitations in current tooling for large mod teams.",
+        "Ensuring clarity and consistency across all official communications."
+    ],
+    "goals_and_needs": [
+        "Maintain transparency and build trust with the Reddit community through open communication.",
+        "Provide clear and accessible information about platform policies and updates.",
+        "Support moderators with the tools and resources they need to manage their communities effectively.",
+        "Promote a safe and positive environment for all Reddit users.",
+        "Address user concerns and feedback in a timely and informative manner."
+    ],
+    "quote": "We're committed to transparency and supporting our community. Let us know how we can help!"
+}
