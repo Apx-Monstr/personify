@@ -13,6 +13,10 @@ The application follows a straightforward flow:
 
 The program prints status updates (like “Scraping Data” or “Persona Generated Successfully”) so you know what’s happening at each step.
 
+## Architecture
+Below is the architecture diagram showing how the components interact:
+![Architecture Diagram]<img width="1186" height="598" alt="Architecture" src="https://github.com/user-attachments/assets/40adf5e2-8160-485b-9fa0-6941b1b90c75" />
+
 ## Setup
 
 Here’s how to get this running on your own machine:
